@@ -1,4 +1,18 @@
 # Step_semester_3
+## Date: 06-09-2026
+Today's Work:
+- Completed Session 3 and Session 4 string problems.
+- Practiced java basics problems.
+- Practiced string manipulation, splitting, validation, StringBuilder, and HashMap-based frequency counting.
+- Completed and pushed the work to feature/session_4.
+
+Next Session Plan:
+- Continue with the next assigned coding session.
+
+Issues Faced:
+- None
+
+---
 ## Date: 31-08-2026
 **Today's Work:**
 - Completed Feature Session 2 on Constructors and Java Keywords.
