@@ -1,4 +1,21 @@
 # Step_semester_3
+## Date: 10-09-2026
+**Today's Work:**
+- Completed Session 5 assignment problems on Access Modifiers, Encapsulation & Object Modeling.
+- Implemented access-level checking using private, default, protected, and public modifiers.
+- Implemented cross-package subclass access checking.
+- Implemented BookInventory with validated check-out and check-in operations.
+- Implemented LibraryMember as a JavaBean with write-once membershipId and write-only securityAnswer.
+- Implemented immutable LoanReceipt and ReferenceOnlyLoanReceipt.
+- Implemented nightly circulation processing using instanceof, static initialization, and null handling.
+- Committed and pushed the completed work to feature/session_5.
+
+**Next Session Plan:**
+- Continue with the next assigned session and complete the class problems and assignment problems.
+
+**Issues Faced:**
+- Problem 5 specification contains a conflict: LoanReceipt is required to be final while ReferenceOnlyLoanReceipt is required to extend LoanReceipt. Implemented LoanReceipt as non-final so the required inheritance can compile.
+---
 ## Date: 06-09-2026
 Today's Work:
 - Completed Session 3 and Session 4 string problems.
