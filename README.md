@@ -1,4 +1,34 @@
 # Step_semester_3
+## Date: 24-09-2026
+**Today's Work:**
+-Implemented interfaces using Ringable, Chargeable, and Trackable.
+-Implemented abstract classes such as ArtPiece, GardenTool, ClassroomDevice, and Drone.
+-Practiced multilevel inheritance and hierarchical inheritance.
+-Implemented method overriding and method overloading.
+-Used super for parent constructors and method reuse.
+-Used instanceof and type casting for runtime type checking.
+-Practiced polymorphism through interface and superclass references.
+
+**Next Session Plan**
+-continue the next assigned session object class methods,inner classes and uml diagram and complete the class problems and assignment problems.
+
+**Issues Faced:**
+-Faced minor issues while organizing multiple classes/interfaces into separate files.
+
+## Date: 16-09-2026
+**Today's Work:**
+-Completed session 6 class problems and assignment problems on inheritance and polymorphism.
+-Practiced single, multilevel, and hierarchical inheritance.
+-Implemented method overriding, super, polymorphism, instanceof, downcasting, and exception handling.
+-Worked with method overloading, static counters, final fields, and defensive copying.
+-Completed and pushed the Week 6 work to GitHub.
+
+**Next Session Plan**
+-continue the next assigned session abstraction and interface and complete the class problems and assignment problems.
+
+**Issues Faced**
+-Faced some confusion while implementing super with inheritance and method overriding.
+
 ## Date: 10-09-2026
 **Today's Work:**
 - Completed Session 5 assignment problems on Access Modifiers, Encapsulation & Object Modeling.
