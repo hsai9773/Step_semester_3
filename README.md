@@ -1,4 +1,20 @@
 # Step_semester_3
+## Date: 03-10-2026
+**Today's Work:**
+## Today's Work
+
+- Practiced Java Class and Object concepts through problem-based programs.
+- Implemented OOP concepts such as abstraction, inheritance, interfaces, and polymorphism.
+- Completed the Category B Coding Assignment with 5 real-world problems.
+- Applied encapsulation, constructors, collections, and validation in Java programs.
+- Strengthened practical understanding of OOP using Eclipse.
+
+**Next Session Plan**
+-continue the next assigned session on introduction to data structures and complete the class problems and assignment problems.
+
+**Issues Faced:**
+-None
+
 ## Date: 24-09-2026
 **Today's Work:**
 -Implemented interfaces using Ringable, Chargeable, and Trackable.
