@@ -1,8 +1,21 @@
 # Step_semester_3
+## Date: 10-10-2026
+ **Today's Work:**
+
+- Implemented Class Topper Finder using 2D arrays.
+- Merged two sorted token arrays using two pointers.
+- Found the most popular canteen order using HashMap.
+- Counted weather alert windows using sliding window.
+- Implemented ticket price insertion position using binary search.
+**Next Session Plan**
+-continue the next assigned session and complete the class problems and assignment problems.
+**Issues Faced:**
+-None
+**Topics Covered:** Arrays, 2D Arrays, HashMap, Two Pointers, Sliding Window, Binary Search, and Time Complexity.
+
+
 ## Date: 03-10-2026
 **Today's Work:**
-## Today's Work
-
 - Practiced Java Class and Object concepts through problem-based programs.
 - Implemented OOP concepts such as abstraction, inheritance, interfaces, and polymorphism.
 - Completed the Category B Coding Assignment with 5 real-world problems.
