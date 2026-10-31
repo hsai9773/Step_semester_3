@@ -1,4 +1,33 @@
 # Step_semester_3
+## Date: 31-10-2026
+**Today's Work:**
+# Linked List
+- Practiced singly linked list operations.
+- Implemented doubly linked list operations.
+- Worked with circular linked lists.
+- Solved linked list coding problems in Java.
+- Practiced insertion, deletion, reversal, traversal, and splitting.
+- **Next Session Plan**
+-continue the next assigned session and complete the class problems and assignment problems.
+**Issues Faced:**
+-None
+
+
+## Date: 17-10-2026
+**Today's Work:**
+# Data Structures
+- Practiced data structure concepts using Java.
+- Implemented linked list operations.
+- Solved coding problems on data structures.
+- Improved problem-solving and logical thinking.
+- Practiced Java programming using Eclipse IDE.
+
+- **Next Session Plan**
+-continue the next assigned session and complete the class problems and assignment problems.
+**Issues Faced:**
+-None
+
+
 ## Date: 10-10-2026
  **Today's Work:**
 
